@@ -1,0 +1,16 @@
+,maintainter,package_source,package_name,count_dependent_repos,count_dependent_projects
+0,wevm,NPM,abitype,3536,1105
+1,wevm,NPM,ox,445,256
+2,wevm,NPM,wagmi,2145,848
+3,wevm,NPM,@wagmi/core,2055,832
+4,wevm,NPM,isows,2379,796
+5,wevm,NPM,webauthn-p256,947,452
+6,wevm,NPM,viem,3137,964
+7,wevm,NPM,@wagmi/connectors,1797,763
+8,wevm,NPM,@wagmi/cli,212,138
+9,wevm,NPM,create-vocs,46,33
+10,wevm,NPM,vocs,50,35
+11,wevm,NPM,@wagmi/vue,8,8
+12,wevm,NPM,frog,37,24
+13,wevm,NPM,prool,26,18
+14,wevm,NPM,@taped/prool,2,1
