@@ -1,0 +1,30 @@
+[project]
+name = "deepfunding"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "altair>=5.5.0",
+    "db-dtypes>=1.4.0",
+    "fastparquet>=2024.11.0",
+    "google-cloud-bigquery>=3.29.0",
+    "httpx>=0.28.1",
+    "kagglehub>=0.3.7",
+    "lightgbm>=4.5.0",
+    "matplotlib>=3.10.0",
+    "networkx>=3.4.2",
+    "numpy>=2.2.2",
+    "openai>=1.61.1",
+    "polars>=1.20.0",
+    "pyarrow>=19.0.0",
+    "python-dotenv>=1.0.1",
+    "scikit-learn>=1.6.1",
+    "seaborn>=0.13.2",
+    "tiktoken>=0.8.0",
+]
+
+[tool.uv]
+dev-dependencies = [
+    "ipykernel>=6.29.5",
+]
